@@ -1,3 +1,3 @@
-import * as THREE from 'https://threejs.org/build/three.js';
+import * as THREE from './build/three.module';
 
 console.log("THREE", THREE);
