@@ -1,3 +1,3 @@
-import * as THREE from './build/three.module';
+import * as THREE from './nodemodules/build/three.module';
 
 console.log("THREE", THREE);
