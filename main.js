@@ -1,3 +1,3 @@
 import * as THREE from './build/three.module.js';
 
-console.log("THREE", THREE);
+console.log("THREE is working", THREE);
